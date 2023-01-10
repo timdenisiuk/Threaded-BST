@@ -1,9 +1,8 @@
 /**
- * Michael Cho
- * Tim D
- *
- * CSS342
- * **************ADD DESCRIPTION***********
+ * Tim Denisiuk
+ * CSS 342
+ * Threaded Binary Search Tree
+ * Create level binary search tree, traversable through iteration
  * */
 
 #include "threadedBST.h"
