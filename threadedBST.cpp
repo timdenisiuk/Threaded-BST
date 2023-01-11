@@ -1,5 +1,5 @@
 /**
- * Tim Denisiuk
+ * Tim Denisiuk, Michael Cho
  * CSS 342
  * Threaded Binary Search Tree
  * Create level binary search tree, traversable through iteration
